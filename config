@@ -1,8 +1,8 @@
 servers = (
   {
     address = "wewritecode.irc.slack.com";
-    user = "matt";
-    password = "wewritecode.hqk6OCA6e18sQm8wrrEx";
+    user = "$USERNAME";
+    password = "$PASSWORD";
     use_ssl = "yes";
     autoconnect = "true";
   }
